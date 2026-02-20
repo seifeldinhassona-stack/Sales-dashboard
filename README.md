@@ -1,5 +1,4 @@
-<img width="809" height="471" alt="image" src="https://github.com/user-attachments/assets/2197dedc-5480-4256-9e06-6e506e3842aa" />
-
+<img width="2529" height="1371" alt="image" src="https://github.com/user-attachments/assets/822a46b2-59ef-4af0-8caf-82a03990558b" />
 
  Sales-dashboard
 Interactive sales  Data Dashboard Project
