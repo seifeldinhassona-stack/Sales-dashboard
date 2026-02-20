@@ -36,6 +36,6 @@ Support decision-makers with accurate and real-time visual indicators
  
 The dashboard is built using structured data from an Excel file, containing multiple metrics and time-based records used for analytical purposes.
  
-🚀 Outcome
+ Outcome
  
 The final dashboard delivers a comprehensive overview of the data, highlights trends and patterns, and allows users to interact with the data efficiently.
